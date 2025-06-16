@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:musique/audio.dart';
-import 'package:musique/controller/home.dart';
 
 void main() {
   runApp(const MyApp());
@@ -21,3 +20,4 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+//rgrththtgrgthth
